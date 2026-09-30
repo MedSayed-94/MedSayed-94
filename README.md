@@ -1,7 +1,7 @@
 <h1 align="center">Mohamed Sayed Khammeri</h1>
 <p align="center">
   <b>Laboratory Manager · Analytical Chemist · ISO/IEC 17025 Quality Specialist</b><br>
-  Sousse, Tunisia · Open to international relocation (work-permit sponsorship required)
+  Sousse, Tunisia
 </p>
 
 <p align="center">
@@ -46,4 +46,4 @@ I use this space to show how I work. It holds practical, **fully fictional** tem
 - Certified Internal Auditor, ISO/IEC 17025 (2023) · ISO 19011 (2023) · ISO 45001 (2022) · ISO 22716 (2022) · ISO/IEC 17065 (2024) · ISO/IEC 17043:2023 & ISO 13528:2022 (2024)
 
 ---
-<p align="center"><i>Looking for a Laboratory Manager or QA/QC Manager role in an accredited lab. Happy to talk.</i></p>
+<p align="center"><i>Always happy to connect with fellow laboratory and quality professionals.</i></p>
