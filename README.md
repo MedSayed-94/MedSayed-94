@@ -18,7 +18,7 @@ I am a chemical engineer with 7+ years of experience running ISO/IEC 17025-accre
 
 - 🧪 **Built an accreditation scope from scratch:** I developed and validated 50+ test methods, then extended the scope by 100+ more.
 - ✅ **100 % success rate** across internal audits, external audits and proficiency tests.
-- 👥 **Lead a team of 10** analysts and technicians supporting about €3 M in annual production.
+- 👥 **Lead a team of 5** analysts and technicians supporting about €3 M in annual production.
 - ⏱️ **98 % on-time delivery** of test results, and **15 % lower operating costs** through better resource and consumables planning.
 - 🎓 Train lab staff and university interns every year.
 
