@@ -16,11 +16,11 @@
 
 I am a chemical engineer with 7+ years of experience running ISO/IEC 17025-accredited testing laboratories. I've worked across textiles, leather, food, cosmetics, household products, PPE and medical textiles.
 
-- 🧪 **Built an accreditation scope from scratch:** I developed and validated 50+ test methods, then extended the scope by 100+ more.
-- ✅ **100 % success rate** across internal audits, external audits and proficiency tests.
-- 👥 **Lead a team of 5** analysts and technicians supporting about €3 M in annual production.
-- ⏱️ **98 % on-time delivery** of test results, and **15 % lower operating costs** through better resource and consumables planning.
-- 🎓 Train lab staff and university interns every year.
+- 🧪 **Method development and validation:** building and extending an ISO/IEC 17025 accreditation scope
+- 📏 **Measurement uncertainty:** bottom-up (GUM/EURACHEM) and top-down estimates
+- ✅ **Quality system:** internal audits, proficiency testing, non-conformities and CAPA
+- 👥 **Team leadership:** running daily lab operations and training analysts and interns
+- 🤝 **Client support:** result review, technical questions and complaint handling
 
 ### What I'm sharing here
 
